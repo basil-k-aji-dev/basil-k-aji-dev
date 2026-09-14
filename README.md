@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=22C55E&width=1200&lines=Hey%2C+I+am+Basil+K+Aji+%7C+AI+Engineer+%7C+NLP+%C2%B7+Computer+Vision+%C2%B7+Robotics;)](https://git.io/typing-svg)
 
-🔭 **I am an AI Engineer** specializing in **NLP, Computer Vision, and Robotics**. I build end-to-end perception and reasoning systems — segmentation and diffusion pipelines, reinforcement-learning agents, and retrieval-augmented LLM workflows — and take them from notebook experiments to code that actually runs on someone else's machine. <br/>
+🔭 **I am an AI Engineer** with **2+ years of industry experience** building AI solutions, and I work across **cyber security** as well. My specialisations are **multi-agent systems**, **LLM fine-tuning**, **RAG**, **computer vision models** applied to real business problems, and **context management in LLMs**. I build end-to-end perception and reasoning systems — segmentation and diffusion pipelines, reinforcement-learning agents, and retrieval-augmented LLM workflows — and take them from notebook experiments to code that actually runs on someone else's machine. <br/>
+
 Most recently I have been working on **open-world amodal completion**: given an image with an occluded object, segment the occluder, infer what is hidden, and inpaint the missing pixels — combining **SAM3**, **GPT-5**, **InstaOrder** occlusion ordering, and **FLUX.1-Fill**. <br/>
 
-I am an engineer with **2+ years of industry experience building AI solutions**, and I work across **cyber security** as well. My specialisations are **multi-agent systems**, **LLM fine-tuning**, **RAG**, **computer vision models** applied to real business problems, and **context management in LLMs**. I am also passionate about **robotics** and currently studying it alongside my AI work. <br/>
-
-Also, [contributing to open source](#open-source-contributions) across AI tooling, LLM observability, and security data — recently on agentic workflows and LLM instrumentation [[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)](#)].
+I am also passionate about **robotics** and currently studying it alongside my AI work. <br/>
 
 "Build it so it runs on a machine that isn't yours."
 
-⚡️ **Fun fact:** <!-- TODO: your own line here --> I like teaching machines to see. \
- Please feel free to connect with me on -> [![Linkedin](https://img.shields.io/badge/-basil--k--aji-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) <!-- TODO: add your LinkedIn URL -->
+"The world runs because of open source contributors."
+
+Please feel free to connect with me on -> [![Linkedin](https://img.shields.io/badge/-basil--k--aji-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basil-k-aji-6169ba26b)
 
 <a><h2>Technical Skills & Tools</h2></a>
 
@@ -54,22 +54,18 @@ Also, [contributing to open source](#open-source-contributions) across AI toolin
 
 <a><h2>Open Source Contributions</h2></a>
 
-<details open> Contributing fixes upstream across AI tooling, LLM observability, and security data. <br/>
+ - **Merged:**  <br/><br/>
+  [![open-code-review](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&label=Alibaba+Open+Code+Review&color=gold)](https://github.com/alibaba/open-code-review)
+  [![OpenProgram](https://img.shields.io/github/stars/Fzkuji/OpenProgram?style=flat-square&label=OpenProgram&color=gold)](https://github.com/Fzkuji/OpenProgram)
 
-- **Merged**
-[![open-code-review](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&label=Alibaba+Open+Code+Review&color=gold)](https://github.com/alibaba/open-code-review)
-[![OpenProgram](https://img.shields.io/github/stars/Fzkuji/OpenProgram?style=flat-square&label=OpenProgram&color=gold)](https://github.com/Fzkuji/OpenProgram)
-
-- **In review**
-[![advisory-database](https://img.shields.io/github/stars/github/advisory-database?style=flat-square&label=GitHub+Advisory+DB&color=blue)](https://github.com/github/advisory-database)
-[![minimind](https://img.shields.io/github/stars/jingyaogong/minimind?style=flat-square&label=MiniMind&color=blue)](https://github.com/jingyaogong/minimind)
-[![openllmetry](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&label=OpenLLMetry&color=blue)](https://github.com/traceloop/openllmetry)
-[![openlit](https://img.shields.io/github/stars/openlit/openlit?style=flat-square&label=OpenLIT&color=blue)](https://github.com/openlit/openlit)
-[![artemis](https://img.shields.io/github/stars/google/artemis?style=flat-square&label=Google+Artemis&color=blue)](https://github.com/google/artemis)
-[![VoiceStudio](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&label=VoiceStudio&color=blue)](https://github.com/debpalash/VoiceStudio)
-[![sshdesk](https://img.shields.io/github/stars/rylena/sshdesk?style=flat-square&label=sshdesk&color=blue)](https://github.com/rylena/sshdesk)
-
-</details>
+ - **In review:**  <br/><br/>
+  [![advisory-database](https://img.shields.io/github/stars/github/advisory-database?style=flat-square&label=GitHub+Advisory+DB&color=blue)](https://github.com/github/advisory-database)
+  [![minimind](https://img.shields.io/github/stars/jingyaogong/minimind?style=flat-square&label=MiniMind&color=blue)](https://github.com/jingyaogong/minimind)
+  [![openllmetry](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&label=OpenLLMetry&color=blue)](https://github.com/traceloop/openllmetry)
+  [![openlit](https://img.shields.io/github/stars/openlit/openlit?style=flat-square&label=OpenLIT&color=blue)](https://github.com/openlit/openlit)
+  [![artemis](https://img.shields.io/github/stars/google/artemis?style=flat-square&label=Google+Artemis&color=blue)](https://github.com/google/artemis)
+  [![VoiceStudio](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&label=VoiceStudio&color=blue)](https://github.com/debpalash/VoiceStudio)
+  [![sshdesk](https://img.shields.io/github/stars/rylena/sshdesk?style=flat-square&label=sshdesk&color=blue)](https://github.com/rylena/sshdesk)
 
 <a><h2>What I've Been Building 🛠️</h2></a>
 
