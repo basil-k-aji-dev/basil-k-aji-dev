@@ -1,16 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=22C55E&width=1200&lines=Hey%2C+I+am+Basil+K+Aji+%7C+AI+Engineer+%7C+NLP+%C2%B7+Computer+Vision+%C2%B7+Robotics;)](https://git.io/typing-svg)
 
-🔭 **I am an AI Engineer** with **2+ years of industry experience** building AI solutions, and I work across **cyber security** as well. My specialisations are **multi-agent systems**, **LLM fine-tuning**, **RAG**, **computer vision models** applied to real business problems, and **context management in LLMs**. I build end-to-end perception and reasoning systems — segmentation and diffusion pipelines, reinforcement-learning agents, and retrieval-augmented LLM workflows — and take them from notebook experiments to code that actually runs on someone else's machine. <br/>
-
-Most recently I have been working on **open-world amodal completion**: given an image with an occluded object, segment the occluder, infer what is hidden, and inpaint the missing pixels — combining **SAM3**, **GPT-5**, **InstaOrder** occlusion ordering, and **FLUX.1-Fill**. <br/>
+🔭 **I am an AI Engineer** and a **Master's graduate specialised in AI**, with **2+ years of industry experience** building AI solutions, and I work across **cyber security** as well. My specialisations are **multi-agent systems**, **LLM fine-tuning**, **RAG**, **computer vision models** applied to real business problems, and **context management in LLMs**. I build end-to-end perception and reasoning systems — segmentation and diffusion pipelines, reinforcement-learning agents, and retrieval-augmented LLM workflows — and take them from notebook experiments to code that actually runs on someone else's machine. <br/>
 
 I am also passionate about **robotics** and currently studying it alongside my AI work. <br/>
 
-"Build it so it runs on a machine that isn't yours."
+"Build it so it runs on a machine that isn't yours." · "The world runs because of open source contributors."
 
-"The world runs because of open source contributors."
-
-Please feel free to connect with me on -> [![Linkedin](https://img.shields.io/badge/-basil--k--aji-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basil-k-aji-6169ba26b)
+I love connecting with new people — reach me via [my site](https://basil-k-aji-dev.github.io/)! <br/>
 
 <a><h2>Technical Skills & Tools</h2></a>
 
