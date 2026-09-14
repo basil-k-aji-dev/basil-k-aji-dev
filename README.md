@@ -61,18 +61,20 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 **Where I contribute most**
 
-| # | Repository | Merged | In review | |
-|--:|---|--:|--:|---|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 2 | 1 | `██████████████████████` 3 |
-| 2 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | `███████████████` 2 |
-| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 1 | 0 | `███████` 1 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 1 | 0 | `███████` 1 |
-| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 0 | 1 | `███████` 1 |
-| 6 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | `███████` 1 |
-| 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 0 | 1 | `███████` 1 |
-| 8 | [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) | 0 | 1 | `███████` 1 |
-| 9 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 1 | `███████` 1 |
-| 10 | [rylena/sshdesk](https://github.com/rylena/sshdesk) | 0 | 1 | `███████` 1 |
+🟩 merged &nbsp; 🟦 in review
+
+| # | Repository | Merged | In review | Total | |
+|--:|---|--:|--:|--:|---|
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 2 | 1 | 3 | 🟩🟩🟦 |
+| 2 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
+| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 1 | 0 | 1 | 🟩 |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 1 | 0 | 1 | 🟩 |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 0 | 1 | 1 | 🟦 |
+| 6 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
+| 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 0 | 1 | 1 | 🟦 |
+| 8 | [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) | 0 | 1 | 1 | 🟦 |
+| 9 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 1 | 1 | 🟦 |
+| 10 | [rylena/sshdesk](https://github.com/rylena/sshdesk) | 0 | 1 | 1 | 🟦 |
 
 <sub>Auto-updated 2026-09-14 · GitHub search API · contributions to other people's repositories only (31 PRs in total including my own repos)</sub>
 

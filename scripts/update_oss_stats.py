@@ -23,7 +23,7 @@ README = Path(__file__).resolve().parent.parent / "README.md"
 START = "<!-- OSS-STATS:START -->"
 END = "<!-- OSS-STATS:END -->"
 TOP_N = 10
-BAR_WIDTH = 22
+MAX_SQUARES = 12
 
 # Own repos are not "contributions to open source" in the sense this section
 # claims, so they are excluded from the leaderboard. Set to "0" to include.
@@ -73,11 +73,21 @@ def repo_of(item: dict) -> str:
     return item.get("repository_url", "").replace("https://api.github.com/repos/", "")
 
 
-def bar(count: int, peak: int) -> str:
-    if peak <= 0:
-        return ""
-    filled = max(1, round(count / peak * BAR_WIDTH)) if count else 0
-    return "█" * filled
+def bar(merged: int, open_count: int) -> str:
+    """One coloured square per pull request, merged first.
+
+    Block-drawing characters in a code span render as tofu on GitHub and carry
+    no colour; emoji squares render in both light and dark themes without
+    depending on the reader's monospace font.
+    """
+    total = merged + open_count
+    if total <= MAX_SQUARES:
+        return "\U0001F7E9" * merged + "\U0001F7E6" * open_count
+    # Keep long rows readable: scale to MAX_SQUARES, never losing a nonzero band.
+    scale = MAX_SQUARES / total
+    m = max(1, round(merged * scale)) if merged else 0
+    o = max(1, MAX_SQUARES - m) if open_count else 0
+    return "\U0001F7E9" * m + "\U0001F7E6" * o
 
 
 def build_section() -> str:
@@ -101,7 +111,6 @@ def build_section() -> str:
         per_repo.items(),
         key=lambda kv: (-(kv[1]["merged"] + kv[1]["open"]), -kv[1]["merged"], kv[0].lower()),
     )[:TOP_N]
-    peak = max((v["merged"] + v["open"] for _, v in ranked), default=0)
 
     lines = [
         START,
@@ -119,14 +128,17 @@ def build_section() -> str:
         lines += [
             "**Where I contribute most**",
             "",
-            "| # | Repository | Merged | In review | |",
-            "|--:|---|--:|--:|---|",
+            "\U0001F7E9 merged &nbsp; \U0001F7E6 in review",
+            "",
+            "| # | Repository | Merged | In review | Total | |",
+            "|--:|---|--:|--:|--:|---|",
         ]
         for position, (name, counts) in enumerate(ranked, start=1):
             total = counts["merged"] + counts["open"]
             lines.append(
                 f"| {position} | [{name}](https://github.com/{name}) "
-                f"| {counts['merged']} | {counts['open']} | `{bar(total, peak)}` {total} |"
+                f"| {counts['merged']} | {counts['open']} | {total} "
+                f"| {bar(counts['merged'], counts['open'])} |"
             )
         lines.append("")
 
