@@ -56,8 +56,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-4-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-10-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-11-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-12-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-12-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -66,9 +66,9 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
 | 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 2 | 1 | 3 | 🟩🟩🟦 |
-| 2 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
-| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 1 | 0 | 1 | 🟩 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 1 | 0 | 1 | 🟩 |
+| 2 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 1 | 1 | 2 | 🟩🟦 |
+| 3 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 1 | 0 | 1 | 🟩 |
 | 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 0 | 1 | 1 | 🟦 |
 | 6 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
 | 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 0 | 1 | 1 | 🟦 |
@@ -76,7 +76,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 9 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 1 | 1 | 🟦 |
 | 10 | [rylena/sshdesk](https://github.com/rylena/sshdesk) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-14 · GitHub search API · contributions to other people's repositories only (31 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-15 · GitHub search API · contributions to other people's repositories only (33 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
