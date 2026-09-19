@@ -8,39 +8,6 @@ Outside of my professional AI work I am a self-taught learner in **cyber securit
 
 I love connecting with new people — reach me via [my site](https://basil-k-aji-dev.github.io/)! <br/>
 
-<a><h2>Technical Skills & Tools</h2></a>
-
- - **AI / Deep Learning:**  <br/><br/>
-  [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
-  [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](#)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
-  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
-
- - **Computer Vision:**  <br/><br/>
-  [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)](#)
-  ![Detectron2](https://img.shields.io/badge/Detectron2-%23009999.svg?logo=meta&logoColor=white)
-  ![SAM](https://img.shields.io/badge/SAM3-0467DF?logo=meta&logoColor=white)
-  ![MediaPipe](https://img.shields.io/badge/MediaPipe-%230097A7.svg?logo=google&logoColor=white)
-  ![Diffusers](https://img.shields.io/badge/Diffusers-FFD21E?logo=huggingface&logoColor=000)
-  ![TFLite](https://img.shields.io/badge/TF%20Lite-FF6F00?logo=tensorflow&logoColor=white)
-
- - **LLM & Agentic:**  <br/><br/>
-  [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=fff)](#)
-  ![RAG](https://img.shields.io/badge/RAG-%234B8BBE.svg?logo=databricks&logoColor=white)
-  [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-  [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)](#)
-  ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?logo=opentelemetry&logoColor=white)
-
- - **Languages & Tooling:**  <br/><br/>
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
 <!-- Generated from MY OWN contribution graph by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basil-k-aji-dev/basil-k-aji-dev/output/github-contribution-grid-snake-dark.svg">
@@ -56,8 +23,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-7-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-10-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-11-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-16-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-12-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -65,19 +32,51 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
-| 1 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 2 | 1 | 3 | 🟩🟩🟦 |
-| 3 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 1 | 1 | 2 | 🟩🟦 |
-| 4 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
-| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 1 | 0 | 1 | 🟩 |
-| 6 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
-| 7 | [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) | 0 | 1 | 1 | 🟦 |
-| 8 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 1 | 1 | 🟦 |
+| 1 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 6 | 6 | 🟦🟦🟦🟦🟦🟦 |
+| 2 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 2 | 1 | 3 | 🟩🟩🟦 |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 1 | 1 | 2 | 🟩🟦 |
+| 5 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
+| 6 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 1 | 0 | 1 | 🟩 |
+| 7 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
+| 8 | [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) | 0 | 1 | 1 | 🟦 |
 | 9 | [rylena/sshdesk](https://github.com/rylena/sshdesk) | 0 | 1 | 1 | 🟦 |
 | 10 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-19 · GitHub search API · contributions to other people's repositories only (35 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-19 · GitHub search API · contributions to other people's repositories only (41 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
+
+<a><h2>What People Said 💬</h2></a>
+
+<!-- KUDOS:START -->
+
+<!-- Generated by scripts/update_kudos.py via .github/workflows/oss-stats.yml.
+     Quotes are curated by hand in assets/kudos.json on the site, not scraped.
+     Edits between these markers are overwritten. -->
+
+> Thank you for a clean piece of work, and for writing down what it does not promise.
+>
+> — **[@WaylandYang](https://github.com/WaylandYang)** · _Maintainer_, on [deeplethe/utopia](https://github.com/deeplethe/utopia/pull/776#issuecomment-5740386727) — merging #776 into dev; shipped in release v0.1.0-rc6
+
+> agree with @basil-k-aji-dev's points on generic replay and persistence. it feels like a solid and future proof approach.
+>
+> — **[@AyushDubey23](https://github.com/AyushDubey23)** · _Contributor_, on [alibaba/open-code-review](https://github.com/alibaba/open-code-review/pull/1393#issuecomment-5739656261) — on the abstraction question in #1393
+
+> Great job! I actually ran into this exact problem locally yesterday!
+>
+> — **[@lizhengfeng101](https://github.com/lizhengfeng101)** · _Maintainer_, on [alibaba/open-code-review](https://github.com/alibaba/open-code-review/pull/1228#issuecomment-5658137926) — on #1228, a regex fix for .pyi stub rules
+
+> Thanks for the fix. I independently revalidated the issue with a two-rank CPU/Gloo test using MiniMind's real actor and critic models. […] The patch is minimal and correct.
+>
+> — **[@jingyaogong](https://github.com/jingyaogong)** · _Maintainer_, on [jingyaogong/minimind](https://github.com/jingyaogong/minimind/pull/854#issuecomment-5666173404) — on #854, a DDP gradient-synchronisation fix
+
+> Great work on the minimal fix and careful gradient verification! I'm glad the root cause I analyzed in #858 is confirmed.
+>
+> — **[@uphome](https://github.com/uphome)** · _Issue reporter_, on [jingyaogong/minimind](https://github.com/jingyaogong/minimind/pull/859#issuecomment-5724092903) — on #859, an MoE router gradient fix
+
+<sub>Quoted verbatim from public pull request threads; an ellipsis marks omitted text. [4 more on my site](https://basil-k-aji-dev.github.io/contributions.html#kudos).</sub>
+
+<!-- KUDOS:END -->
 
 <a><h2>What I've Been Building 🛠️</h2></a>

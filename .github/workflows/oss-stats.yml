@@ -33,6 +33,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_oss_stats.py
 
+      - name: Regenerate the quotes section
+        # Reads the curated kudos file from the site, so the profile and the
+        # site cannot drift. A fetch failure leaves the existing quotes in
+        # place rather than failing the run.
+        run: python scripts/update_kudos.py
+
       - name: Commit if the numbers changed
         run: |
           if git diff --quiet -- README.md; then
