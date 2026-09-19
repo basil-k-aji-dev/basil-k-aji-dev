@@ -4,8 +4,7 @@
 
 Outside of my professional AI work I am a self-taught learner in **cyber security**, and I am passionate about **robotics** and currently studying it. <br/>
 
-> ### The world runs because of open source contributors who build software
-> ### so it can run on a machine that isn't theirs.
+> ### The world runs because of open source contributors who build software so it can run on a machine that isn't theirs.
 
 I love connecting with new people — reach me via [my site](https://basil-k-aji-dev.github.io/)! <br/>
 
