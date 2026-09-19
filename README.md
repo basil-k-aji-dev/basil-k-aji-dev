@@ -23,8 +23,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-7-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-16-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-12-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-17-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-13-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -41,9 +41,9 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 7 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
 | 8 | [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph) | 0 | 1 | 1 | 🟦 |
 | 9 | [rylena/sshdesk](https://github.com/rylena/sshdesk) | 0 | 1 | 1 | 🟦 |
-| 10 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 0 | 1 | 1 | 🟦 |
+| 10 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-19 · GitHub search API · contributions to other people's repositories only (41 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-19 · GitHub search API · contributions to other people's repositories only (42 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
