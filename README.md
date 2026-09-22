@@ -23,7 +23,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-15-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-19-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-20-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Repositories](https://img.shields.io/badge/Repositories-14-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
@@ -32,7 +32,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 6 | 2 | 8 | 🟩🟩🟩🟩🟩🟩🟦🟦 |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 6 | 3 | 9 | 🟩🟩🟩🟩🟩🟩🟦🟦🟦 |
 | 2 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 6 | 6 | 🟦🟦🟦🟦🟦🟦 |
 | 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 | 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
@@ -43,7 +43,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 9 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1 | 0 | 1 | 🟩 |
 | 10 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-22 · GitHub search API · contributions to other people's repositories only (54 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-22 · GitHub search API · contributions to other people's repositories only (55 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
