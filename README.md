@@ -23,8 +23,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-16-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-20-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-13-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-24-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-15-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -34,16 +34,16 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 |--:|---|--:|--:|--:|---|
 | 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 7 | 1 | 8 | 🟩🟩🟩🟩🟩🟩🟩🟦 |
 | 2 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 6 | 6 | 🟦🟦🟦🟦🟦🟦 |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 5 | 5 | 🟦🟦🟦🟦🟦 |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 2 | 1 | 3 | 🟩🟩🟦 |
-| 6 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
-| 7 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1 | 1 | 2 | 🟩🟦 |
-| 8 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
+| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 2 | 3 | 5 | 🟩🟩🟦🟦🟦 |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
+| 6 | [google/artemis](https://github.com/google/artemis) | 0 | 3 | 3 | 🟦🟦🟦 |
+| 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
+| 8 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1 | 1 | 2 | 🟩🟦 |
 | 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 1 | 0 | 1 | 🟩 |
-| 10 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
+| 10 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-23 · GitHub search API · contributions to other people's repositories only (58 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-24 · GitHub search API · contributions to other people's repositories only (63 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
