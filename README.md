@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=22C55E&width=1200&lines=Hey%2C+I+am+Basil+K+Aji+%7C+AI+Engineer+%7C+NLP+%C2%B7+Computer+Vision+%C2%B7+Robotics;)](https://git.io/typing-svg)
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-basil--k--aji--dev-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://basil-k-aji-dev.github.io/)
+
 🔭 **I am an AI Engineer** and a **Master's graduate specialised in AI**, with **2+ years of industry experience** building AI solutions. My specialisations are **multi-agent systems**, **LLM fine-tuning**, **RAG**, **computer vision models** applied to real business problems, and **context management in LLMs**. I build end-to-end perception and reasoning systems — segmentation and diffusion pipelines, reinforcement-learning agents, and retrieval-augmented LLM workflows — and take them from notebook experiments to code that actually runs on someone else's machine. <br/>
 
 Outside of my professional AI work I am a self-taught learner in **cyber security**, and I am passionate about **robotics** and currently studying it. <br/>
@@ -80,11 +82,3 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 <!-- KUDOS:END -->
 
 <a><h2>What I've Been Building 🛠️</h2></a>
-
-<a><h2>Support ☕</h2></a>
-
-<p align="left">
-  <a href="https://basil-k-aji-dev.github.io/" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
-  </a>
-</p>
