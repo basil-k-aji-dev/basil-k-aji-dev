@@ -80,3 +80,11 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 <!-- KUDOS:END -->
 
 <a><h2>What I've Been Building 🛠️</h2></a>
+
+<a><h2>Support ☕</h2></a>
+
+<p align="left">
+  <a href="https://basil-k-aji-dev.github.io/" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+  </a>
+</p>
