@@ -29,8 +29,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-16-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-27-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-16-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-30-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-17-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -38,8 +38,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 7 | 1 | 8 | 🟩🟩🟩🟩🟩🟩🟩🟦 |
-| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 2 | 4 | 6 | 🟩🟩🟦🟦🟦🟦 |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 7 | 2 | 9 | 🟩🟩🟩🟩🟩🟩🟩🟦🟦 |
+| 2 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 2 | 5 | 7 | 🟩🟩🟦🟦🟦🟦🟦 |
 | 3 | [openlit/openlit](https://github.com/openlit/openlit) | 0 | 6 | 6 | 🟦🟦🟦🟦🟦🟦 |
 | 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 | 5 | [google/artemis](https://github.com/google/artemis) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
@@ -47,9 +47,9 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 7 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
 | 8 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1 | 1 | 2 | 🟩🟦 |
 | 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 1 | 0 | 1 | 🟩 |
-| 10 | [github/advisory-database](https://github.com/github/advisory-database) | 0 | 1 | 1 | 🟦 |
+| 10 | [agno-agi/agno](https://github.com/agno-agi/agno) | 0 | 1 | 1 | 🟦 |
 
-<sub>Auto-updated 2026-09-28 · GitHub search API · contributions to other people's repositories only (67 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-09-28 · GitHub search API · contributions to other people's repositories only (70 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
