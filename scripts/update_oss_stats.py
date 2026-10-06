@@ -56,8 +56,19 @@ def search(query: str, *, per_page: int = 100, pages: int = 10) -> dict:
             except urllib.error.HTTPError as exc:
                 # Search is rate limited separately (30/min authenticated) and
                 # answers 403/429 when exceeded. Back off rather than writing a
-                # half-empty section over good content.
-                if exc.code in (403, 429) and attempt < 3:
+                # half-empty section over good content. 5xx is GitHub failing
+                # to answer a query it would otherwise serve, so it retries too.
+                if (exc.code in (403, 429) or exc.code >= 500) and attempt < 3:
+                    time.sleep(5 * (attempt + 1))
+                    continue
+                raise
+            except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+                # A dropped connection or a truncated body is transient and
+                # common on this endpoint: the search API answers an abrupt EOF
+                # often enough that one attempt is not a reliable read. Without
+                # this the run fails on a blip, or a later page returns nothing
+                # and the section is rewritten short.
+                if attempt < 3:
                     time.sleep(5 * (attempt + 1))
                     continue
                 raise
