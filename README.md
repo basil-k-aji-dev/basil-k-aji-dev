@@ -29,7 +29,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-33-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-28-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-26-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Repositories](https://img.shields.io/badge/Repositories-21-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
@@ -45,9 +45,9 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 | 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
 | 7 | [t8y2/dbx](https://github.com/t8y2/dbx) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 8 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 1 | 2 | 3 | 🟩🟦🟦 |
-| 9 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
-| 10 | [starship/starship](https://github.com/starship/starship) | 1 | 1 | 2 | 🟩🟦 |
+| 8 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
+| 9 | [starship/starship](https://github.com/starship/starship) | 1 | 1 | 2 | 🟩🟦 |
+| 10 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
 
 <sub>Auto-updated 2026-11-18 · GitHub search API · contributions to other people's repositories only (90 PRs in total including my own repos)</sub>
 
