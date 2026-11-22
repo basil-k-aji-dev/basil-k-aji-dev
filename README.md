@@ -29,7 +29,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-34-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-25-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-31-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 ![Repositories](https://img.shields.io/badge/Repositories-21-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
@@ -38,7 +38,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
-| 1 | [openlit/openlit](https://github.com/openlit/openlit) | 6 | 6 | 12 | 🟩🟩🟩🟩🟩🟩🟦🟦🟦🟦🟦🟦 |
+| 1 | [openlit/openlit](https://github.com/openlit/openlit) | 6 | 12 | 18 | 🟩🟩🟩🟩🟦🟦🟦🟦🟦🟦🟦🟦 |
 | 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 8 | 2 | 10 | 🟩🟩🟩🟩🟩🟩🟩🟩🟦🟦 |
 | 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
 | 4 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
@@ -49,7 +49,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 9 | [starship/starship](https://github.com/starship/starship) | 2 | 0 | 2 | 🟩🟩 |
 | 10 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
 
-<sub>Auto-updated 2026-11-22 · GitHub search API · contributions to other people's repositories only (90 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-11-22 · GitHub search API · contributions to other people's repositories only (96 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
