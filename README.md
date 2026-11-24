@@ -29,8 +29,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-34-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-31-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-21-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-57-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-24-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -38,18 +38,18 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 
 | # | Repository | Merged | In review | Total | |
 |--:|---|--:|--:|--:|---|
-| 1 | [openlit/openlit](https://github.com/openlit/openlit) | 6 | 12 | 18 | 🟩🟩🟩🟩🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 1 | [openlit/openlit](https://github.com/openlit/openlit) | 6 | 14 | 20 | 🟩🟩🟩🟩🟦🟦🟦🟦🟦🟦🟦🟦 |
 | 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 8 | 2 | 10 | 🟩🟩🟩🟩🟩🟩🟩🟩🟦🟦 |
-| 3 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
-| 4 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 7 | [t8y2/dbx](https://github.com/t8y2/dbx) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 8 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 2 | 0 | 2 | 🟩🟩 |
-| 9 | [starship/starship](https://github.com/starship/starship) | 2 | 0 | 2 | 🟩🟩 |
-| 10 | [google/artemis](https://github.com/google/artemis) | 0 | 2 | 2 | 🟦🟦 |
+| 3 | [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) | 0 | 10 | 10 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 4 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 0 | 8 | 8 | 🟦🟦🟦🟦🟦🟦🟦🟦 |
+| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
+| 6 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 8 | [pydantic/logfire](https://github.com/pydantic/logfire) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
+| 10 | [t8y2/dbx](https://github.com/t8y2/dbx) | 3 | 0 | 3 | 🟩🟩🟩 |
 
-<sub>Auto-updated 2026-11-24 · GitHub search API · contributions to other people's repositories only (96 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-11-24 · GitHub search API · contributions to other people's repositories only (122 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
