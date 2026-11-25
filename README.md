@@ -29,8 +29,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-34-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-64-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-27-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-79-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-30-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -42,14 +42,14 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 8 | 2 | 10 | 🟩🟩🟩🟩🟩🟩🟩🟩🟦🟦 |
 | 3 | [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) | 0 | 10 | 10 | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | 4 | [traceloop/openllmetry](https://github.com/traceloop/openllmetry) | 0 | 8 | 8 | 🟦🟦🟦🟦🟦🟦🟦🟦 |
-| 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
-| 6 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
-| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 8 | [braintrustdata/braintrust-sdk-javascript](https://github.com/braintrustdata/braintrust-sdk-javascript) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 9 | [pydantic/logfire](https://github.com/pydantic/logfire) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
+| 5 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 0 | 7 | 7 | 🟦🟦🟦🟦🟦🟦🟦 |
+| 6 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
+| 7 | [braintrustdata/braintrust-sdk-javascript](https://github.com/braintrustdata/braintrust-sdk-javascript) | 0 | 5 | 5 | 🟦🟦🟦🟦🟦 |
+| 8 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
+| 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 10 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 
-<sub>Auto-updated 2026-11-25 · GitHub search API · contributions to other people's repositories only (129 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-11-25 · GitHub search API · contributions to other people's repositories only (144 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
