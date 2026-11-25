@@ -29,8 +29,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-34-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-57-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-24-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-64-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-27-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -45,11 +45,11 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 5 | [maximhq/bifrost](https://github.com/maximhq/bifrost) | 3 | 3 | 6 | 🟩🟩🟩🟦🟦🟦 |
 | 6 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 4 | 0 | 4 | 🟩🟩🟩🟩 |
 | 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 8 | [pydantic/logfire](https://github.com/pydantic/logfire) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
-| 10 | [t8y2/dbx](https://github.com/t8y2/dbx) | 3 | 0 | 3 | 🟩🟩🟩 |
+| 8 | [braintrustdata/braintrust-sdk-javascript](https://github.com/braintrustdata/braintrust-sdk-javascript) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 9 | [pydantic/logfire](https://github.com/pydantic/logfire) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
+| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 3 | 0 | 3 | 🟩🟩🟩 |
 
-<sub>Auto-updated 2026-11-24 · GitHub search API · contributions to other people's repositories only (122 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-11-25 · GitHub search API · contributions to other people's repositories only (129 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
