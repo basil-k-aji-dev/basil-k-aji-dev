@@ -29,8 +29,8 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
      Edits between these markers are overwritten. -->
 
 ![Merged](https://img.shields.io/badge/Merged-34-2ea043?style=for-the-badge&logo=github&logoColor=white)
-![In review](https://img.shields.io/badge/In%20review-79-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-30-6e7681?style=for-the-badge&logo=github&logoColor=white)
+![In review](https://img.shields.io/badge/In%20review-80-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-31-6e7681?style=for-the-badge&logo=github&logoColor=white)
 
 **Where I contribute most**
 
@@ -49,7 +49,7 @@ I love connecting with new people — reach me via [my site](https://basil-k-aji
 | 9 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 | 10 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 0 | 4 | 4 | 🟦🟦🟦🟦 |
 
-<sub>Auto-updated 2026-11-25 · GitHub search API · contributions to other people's repositories only (144 PRs in total including my own repos)</sub>
+<sub>Auto-updated 2026-11-26 · GitHub search API · contributions to other people's repositories only (145 PRs in total including my own repos)</sub>
 
 <!-- OSS-STATS:END -->
 
